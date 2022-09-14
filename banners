@@ -1,0 +1,12 @@
+{
+	"banner_right":{
+			        "banner_mute_link":"",
+					"banner_link":"https://archive.org/download/apk-2-mods-telegram-intro/APK2MODS%20TELEGRAM%20INTRO.ia.mp4",
+				"streamFormat":"mp4",
+				"banner_type":"video"
+			},
+	"banner_left":{
+				"banner_link":"https://i.ibb.co/fvgS8fT/download-new-app-fr1600x344.png",
+				"banner_type":"image"
+			}
+}
